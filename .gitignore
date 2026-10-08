@@ -1,0 +1,22 @@
+# Executables
+*.exe
+game.exe
+main.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Build output
+build/
+dist/
+
+# Raylib build artifacts
+*.dll
+
+# OS files
+Thumbs.db
+.DS_Store
